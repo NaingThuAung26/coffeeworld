@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+div#header{
+	margin: 0 520px;
+}
+
+div#header h1 {
+	font-family: 'IndieFlower-Regular';
+	font-size: 50px;
+	padding-top: 25px;
+}
+
+div#header img{
+	width: 110px;
+	height: 110px;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+#navbar {
+	width: 100%;
+	background-color:#9980FA;
+}
+.nav_ul{
+	padding-left: 50px;
+}
+
+#navbar .nav_ul li{
+	list-style: none;
+	float: left;
+
+}
+
+#navbar .nav_ul li a {
+	color: #FFF;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: Times New Roman;
+}
+
+#navbar .nav_ul li a:hover, .active{
+	background-color: #D980FA;
+}
+
+div#slider img {
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+
+div.quote {
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	top: 45%;
+	right: 28%;
+	padding: 30px;
+	font-family:Myanmar3,Yunghkio;
+}
+
+.offer {
+	padding-top: 50px;
+}
+.offer h1{
+	padding-bottom: 40px;
+	font-family: Times New Roman;
+	text-align: center;
+}
+.dot p{
+	padding-top: 20px;
+}
+.offer p{
+	padding-top: 40px;
+	text-align: center;
+	font-family: Times New Roman;
+}
+
+.main{
+	width: 100%;
+	height: 40%;
+}
+
+.group1, .group2, .group3 {
+	float: left;
+	width: 25%;
+	height: 100%;
+	text-align: center;
+	margin-left: 100px;
+	margin-top: 20px;
+
+	font-family: Times New Roman;
+
+}
+.icon1, .icon2, .icon3 {
+	width: 50px;
+	height: 50px;
+}
+
+.group1{
+	padding-left: 10px;
+}
+
+.group2
+{
+	padding-:px;
+}
+
+.group1 h3, .group2 h3, .group3 h3 {
+	padding-bottom: 10px; 
+} 
+
+.ourshop {
+	padding-top: 50px;
+}
+.ourshop h1{
+	padding-bottom: 40px;
+	font-family: Times New Roman;
+	text-align: center;
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+
+.coffee_photo {
+	/*margin-left: 250px;*/
+	margin: 0rem 0rem 0rem 15.4rem;
+}
+
+.coffee_photo img{
+	width: 119px;
+	height: 142px;
+	/*margin-left: 300px;*/
+	margin-top: 1.5rem;
+	float: left;
+	padding-left: 0.5rem;
+	
+}
+
+
+
+.choose {
+	font-family: Times New Roman;
+	margin-top: 1.5rem;
+	margin-right: 12rem;
+	text-align: justify;
+}
+
+.choose h1{
+	margin-left: 42rem;
+}
+.choose p {
+	margin-top: 10px;
+	margin-left: 42rem;
+}
+
+.tspecial {
+	
+	margin: 1.5rem 0rem 0rem 15.4rem;
+	float: left;
+
+}
+
+.tt img {
+    margin-top: 1.5rem;
+    margin-left: 118px;
+}
+.imgfinal {
+	margin-left: -4px !important;
+}
+
+.final{
+	margin: 1.5rem 0rem 0rem 15.4rem;
+	float: left;
+
+
+}
+
+.orderlist{
+	margin-left: 696px;
+}
+
+.orderlist h1{
+	margin-top: 1.5rem;
+	font-family: Times New Roman;
+	margin-bottom: 20px;
+
+}
+
+.orderlist ol li{
+	font-family: Times New Roman;
+}
+
+.footerd {
+	width: 100%;
+    height: 15%;
+    float: left;
+    margin: 11px 0;
+    background-color: #9980FA;
+    padding: 8px 0;
+	
+}
+.leftt {
+	font-family: Times New Roman;
+	float: left;
+	color: #fff;
+	margin-left: 3rem;
+}
+
+.rightt {
+	font-family: Times New Roman;
+	float: right;
+	color: #fff;
+	margin-right: 3rem;
+
+}
+}

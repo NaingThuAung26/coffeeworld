@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "IndieFlower-Regular";
+	src : url('font/IndieFlower-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'IndieFlower-Regular';
+	src : url('font/IndieFlower-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Lobster-Regular';
+	src : url('font/RobotoSlab-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'RobotoSlab-ExtraBold';
+	src : url('font/static/RobotoSlab-ExtraBold.ttf');
+}
